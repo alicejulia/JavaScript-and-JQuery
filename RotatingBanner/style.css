@@ -1,0 +1,34 @@
+#banners
+  { 
+    position: absolute;
+    margin: 10px;
+  }
+  
+#banners h4
+  { 
+    display: none;
+  }
+
+#banners img
+  { 
+    border: none;
+  }
+
+#banners ul, #banners li, #banners a, #banners img
+  { 
+    margin: 0;
+    padding: 0;
+  }
+  
+#banners ul
+  { 
+    display: block;
+    height: 200px;
+    overflow: hidden;
+  }
+
+#banners li
+  { 
+    display: block;
+    list-item-style: none;
+  }
